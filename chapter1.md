@@ -1,4 +1,6 @@
-# The practice of Elements of Programming
+# Strategies for Interview
 
-The workshop to read this book.
+
+
+
 
