@@ -1,6 +1,6 @@
 # Summary
 
-* [First Chapter](chapter1.md)
+* [Content](chapter1.md)
 
 ## Introduction
 
