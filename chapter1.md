@@ -1,3 +1,4 @@
-# First Chapter
+# The practice of Elements of Programming
 
-GitBook allows you to organize your book into chapters, each chapter is stored in a separate file like this one.
+The workshop to read this book.
+
