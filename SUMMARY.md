@@ -4,7 +4,7 @@
 
 ## Introduction
 
-* [Strategy for Interview](chapter1.md)
+* [Strategies for Interview](chapter1.md)
 
 ## Primitive Types
 
