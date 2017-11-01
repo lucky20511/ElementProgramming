@@ -1,3 +1,4 @@
-# My Awesome Book
+# The practice of Elements of Programming
 
-This file file serves as your book's preface, a great place to describe your book's content and ideas.
+The workshop to read this book and practice the questions in it.
+

@@ -1,10 +1,10 @@
 # Summary
 
-* [Content](chapter1.md)
+* [Introduction](README.md)
 
 ## Introduction
 
-* [Introduction](README.md)
+* [Content](chapter1.md)
 
 ## Primitive Types
 
