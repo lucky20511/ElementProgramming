@@ -1,5 +1,11 @@
 ### Count Number of 1 bit
 
+**Description/**
+
+count the number of 1 bit
+
+**Variant/**
+
 -------------------------------- Leonard --------------------------
 
 **Thoughts/**

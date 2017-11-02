@@ -1,3 +1,5 @@
+### Parity Binary Word
+
 **Description/**
 
 Get the parity number of a binary word. If number of 1 bit is even, parity number is 0, otherwise is 1.
@@ -9,8 +11,6 @@ Do the following things in O\(1\)
 1. \(01010000\)2 to \(01011111\)2
 2. Compute x mod a power of two. e.g. 77 mod 64 = 13
 3. Test if x is power of 2
-
-
 
 -------------------------------- Leonard --------------------------
 
