@@ -10,7 +10,7 @@ Get the parity number of a binary word. If number of 1 bit is even, parity numbe
 
 **Thoughts/**
 
-Count the number bit.
+Count the number of 1 bit.
 
 **Code/**
 
