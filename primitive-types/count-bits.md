@@ -2,13 +2,9 @@
 
 -------------------------------- Leonard
 
+**Thoughts/**
 
-
-
-
-
-
-
+**Code/**
 
 -------------------------------- Luckman
 
@@ -17,6 +13,8 @@
 111100
 
 111011
+
+**Code/**
 
 ```
 Public int countBits(int num) {
@@ -29,5 +27,9 @@ Public int countBits(int num) {
 }
 ```
 
+-------------------------------- Author
 
+**Thoughts/**
+
+Logic Shift
 
