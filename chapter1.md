@@ -54,9 +54,9 @@
 
 4.Assume valid inputs
 
-Should clarify the assumption with interviewer
+* Should clarify the assumption with interviewer
 
-Pay attention on regular case first, Then, come up with corner cases as more as possible to test your solution.
+* Pay attention on regular case first, Then, come up with corner cases as more as possible to test your solution.
 
 5.Avoid Syntax Error \(Typo\)
 
