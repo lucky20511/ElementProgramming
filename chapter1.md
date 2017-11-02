@@ -22,15 +22,24 @@
 
 2.Work on concrete examples
 
-3.Spell out brute-force solution 
+3.Spell out brute-force solution
 
-    - Need to care about the case if it takes a long time to describe the brute-force method.
+* Need to care about the case if it takes a long time to describe the brute-force method.
 
 4.Think out loud
 
-5.Apply patterns 
+5.Apply patterns
 
-    - e.g. HashMap, Recursion, DP, slow fast pointer, topological sorting
+* e.g. HashMap, Recursion, DP, slow fast pointer, topological sorting
+* Detect cycle in DG     1. Topological Sorting
+
+                                            2. Backtracking with a HashMap \(single head\)
+
+* Detect cycle in Directed line   1. Fast slow pointer  
+
+                                                          2. HashMap
+
+* Detect cycle in UDG   1. Union-find  --  cycle : union two node already with same group 
 
 
 
