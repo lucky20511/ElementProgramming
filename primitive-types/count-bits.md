@@ -17,8 +17,8 @@
 **Code/**
 
 ```
-Public int countBits(int num) {
-    int count = 0;
+public short countBits(int num) {
+    short count = 0;
     while(num != 0) {
         num &= num-1;
         count++;
