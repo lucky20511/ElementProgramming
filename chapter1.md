@@ -40,31 +40,23 @@
 
 * Detect cycle in UDG   1. Union-find  --  cycle : union two nodes already with same group
 
-Presenting the Solution
+### Presenting the Solution
 
-Libraries
+1.Libraries \(Data Structure\)
 
-Focus on the top level algorithm
+2.Focus on the top level algorithm
 
--- Always make interviewer clearly understand your main flow of solution
+* Always make interviewer clearly understand your main flow of solution
 
--- It's ok to use the functions that you will implement later.
+* It's ok to use the functions that you will implement later.
 
-Manage the whiteboard
+3.Manage the whiteboard \(Save space\)
 
-Assume valid inputs
+4.Assume valid inputs
 
--- Should clarify the assumption with interviewer
+Should clarify the assumption with interviewer
 
--- Pay attention on regular case first, Then, come up with corner cases as more as possible to test your solution.
+Pay attention on regular case first, Then, come up with corner cases as more as possible to test your solution.
 
 Avoid Syntax Error \(Typo\)
-
-
-
-
-
-
-
-
 
