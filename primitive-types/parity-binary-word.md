@@ -29,5 +29,13 @@ public short parity(long num) {
 
 **Thoughts/**
 
-Logic Shift
+Keep folding the number
+
+01234567
+
+         0123
+
+             01
+
+               0
 
