@@ -60,11 +60,33 @@
 
 **5.Avoid Syntax Error \(Typo\)**
 
+**6.Don't Apologize**
+
+**7.Keep a Positive Spirit**
+
 ## What Interviewer want to get from the conversation with you
 
-1. **Clearly communicate a complex idea**
-2. **Passion about his work**
-3. **Potential Interest matches with some projects -- many teams prefer generalist**
+**1.If you can clearly communicate a complex idea**
+
+**2.If you have passion about his work**
+
+**3.If you have potential interest matches with some projects**
+
+* Keep in mind that many teams prefer generalist 
+
+* Don't limit yourself on the position requirement
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
