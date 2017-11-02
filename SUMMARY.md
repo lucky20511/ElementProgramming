@@ -8,6 +8,8 @@
 
 ## Primitive Types
 
+* [Count Bits](primitive-types/count-bits.md)
+
 ## Arrays
 
 ## Strings
