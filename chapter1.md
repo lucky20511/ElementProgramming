@@ -18,19 +18,19 @@
 
 3.Don't need to use setter and getter
 
-### Approaching the problem
+## Approaching the problem
 
-1.Clarify the problem
+**1.Clarify the problem**
 
-2.Work on concrete examples
+**2.Work on concrete examples**
 
-3.Spell out brute-force solution
+**3.Spell out brute-force solution**
 
 * Need to care about the case if it takes a long time to describe the brute-force method.
 
-4.Think out loud
+**4.Think out loud**
 
-5.Apply patterns
+**5.Apply patterns**
 
 * e.g. HashMap, Recursion, DP, slow fast pointer, topological sorting
 
@@ -40,23 +40,23 @@
 
 * Detect cycle in UDG   1. Union-find  --  cycle : union two nodes already with same group
 
-### Presenting the Solution
+## Presenting the Solution
 
-1.Libraries \(Data Structure\)
+**1.Take use of libraries \(Data Structure\)**
 
-2.Focus on the top level algorithm
+**2.Focus on the top level algorithm**
 
 * Always make interviewer clearly understand your main flow of solution
 
 * It's ok to use the functions that you will implement later.
 
-3.Manage the whiteboard \(Save space\)
+**3.Manage the whiteboard \(Save space\)**
 
-4.Assume valid inputs
+**4.Assume valid inputs**
 
 * Should clarify the assumption with interviewer
 
 * Pay attention on regular case first, Then, come up with corner cases as more as possible to test your solution.
 
-5.Avoid Syntax Error \(Typo\)
+**5.Avoid Syntax Error \(Typo\)**
 
