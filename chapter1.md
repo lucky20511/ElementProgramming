@@ -60,3 +60,11 @@
 
 **5.Avoid Syntax Error \(Typo\)**
 
+## What Interviewer want to get from the conversation with you
+
+1. **Clearly communicate a complex idea**
+2. **Passion about his work**
+3. **Potential Interest matches with some projects -- many teams prefer generalist**
+
+
+
