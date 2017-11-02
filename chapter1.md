@@ -31,6 +31,7 @@
 5.Apply patterns
 
 * e.g. HashMap, Recursion, DP, slow fast pointer, topological sorting
+
 * Detect cycle in DG     1. Topological Sorting         2. Backtracking with a HashMap \(single head\)
 
 * Detect cycle in Directed line   1. Fast slow pointer      2. HashMap
