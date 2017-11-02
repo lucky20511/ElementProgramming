@@ -8,6 +8,8 @@
 
 3.High quality with no errors
 
+4.Know your company \(which kind of engineer they want to hire\)
+
 #### Coding for Interview v.s Coding in industry
 
 1.Take correctness, simplicity, space and time complexity as top priority.
@@ -37,6 +39,32 @@
 * Detect cycle in Directed line   1. Fast slow pointer      2. HashMap
 
 * Detect cycle in UDG   1. Union-find  --  cycle : union two nodes already with same group
+
+Presenting the Solution
+
+Libraries
+
+Focus on the top level algorithm
+
+-- Always make interviewer clearly understand your main flow of solution
+
+-- It's ok to use the functions that you will implement later.
+
+Manage the whiteboard
+
+Assume valid inputs
+
+-- Should clarify the assumption with interviewer
+
+-- Pay attention on regular case first, Then, come up with corner cases as more as possible to test your solution.
+
+Avoid Syntax Error \(Typo\)
+
+
+
+
+
+
 
 
 
