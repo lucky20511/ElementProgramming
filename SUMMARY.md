@@ -9,6 +9,7 @@
 ## Primitive Types
 
 * [Count Bits](primitive-types/count-bits.md)
+* [Parity Binary Word](primitive-types/parity-binary-word.md)
 
 ## Arrays
 

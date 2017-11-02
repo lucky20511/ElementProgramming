@@ -1,4 +1,4 @@
-### Count Number of 1 bit
+Get the parity number of a binary word. If number of 1 bit is even, parity number is 0, otherwise is 1.
 
 -------------------------------- Leonard --------------------------
 
@@ -10,18 +10,16 @@
 
 **Thoughts/**
 
-111100
-
-111011
+Count the number bit.
 
 **Code/**
 
 ```
-Public int countBits(int num) {
-    int count = 0;
+public short parity(long num) {
+    short count = 0;
     while(num != 0) {
         num &= num-1;
-        count++;
+        count ^= 1;
     }
     return count;
 }
