@@ -16,19 +16,21 @@
 
 3.Don't need to use setter and getter
 
-Approaching the problem
+### Approaching the problem
 
 1.Clarify the problem
 
 2.Work on concrete examples
 
-3.Spell out brute-force solution
+3.Spell out brute-force solution 
+
+    - Need to care about the case if it takes a long time to describe the brute-force method.
 
 4.Think out loud
 
-5.Apply patterns
+5.Apply patterns 
 
-
+    - e.g. HashMap, Recursion, DP, slow fast pointer, topological sorting
 
 
 
