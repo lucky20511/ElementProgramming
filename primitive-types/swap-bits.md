@@ -12,6 +12,32 @@ Swap the ith and jth bit of a number.
 
 **Code/**
 
+```
+public long swapBits(long num, int i, int j) {
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+}
+```
+
 -------------------------------- Luckman -------------------------
 
 **Thoughts/**
