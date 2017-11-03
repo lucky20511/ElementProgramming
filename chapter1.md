@@ -1,5 +1,12 @@
 # Strategies for Interview
 
+#### Onsite Interview
+
+* 3~5 one-on-one interviews with engineers
+* 5 minutes for introductions and questions about resume
+* 5~15 minutes of questioning basic programming concept
+* the rest of time for one or two problems 
+
 #### Resume
 
 1.Clear statement of Objective
@@ -72,21 +79,9 @@
 
 **3.If you have potential interest matches with some projects**
 
-* Keep in mind that many teams prefer generalist 
+* Keep in mind that many teams prefer generalist
 
 * Don't limit yourself on the position requirement
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
