@@ -12,6 +12,26 @@ count the number of 1 bit
 
 **Code/**
 
+```
+public short countBits(int num) {
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+}
+```
+
 -------------------------------- Luckman -------------------------
 
 **Thoughts/**
