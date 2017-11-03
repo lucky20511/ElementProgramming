@@ -34,5 +34,13 @@ public long reverseBits(long num) {
 
 **Thoughts/**
 
-Compare the ith and jth bit. If they are the same, don't need to swap. If they are not the same, XOR 1 for this two bits.
+1. Dived the 64-bit into 4 16-bit
+2. Using the pre-computing table to do the reverse. 
+
+```
+    e.g. reversed   { {11} , {10} , {01} , {00} }
+         original      00     01     10     11
+```
+
+
 
