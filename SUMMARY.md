@@ -10,6 +10,8 @@
 
 * [Count Bits](primitive-types/count-bits.md)
 * [Parity Binary Word](primitive-types/parity-binary-word.md)
+* [Swap Bits](primitive-types/swap-bits.md)
+* [Reverse Bits](primitive-types/reverse-bits.md)
 
 ## Arrays
 
