@@ -12,6 +12,36 @@ Reverse all bits in a number
 
 **Code/**
 
+```
+public long reverseBits(long num) {
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+}
+```
+
 -------------------------------- Luckman -------------------------
 
 **Thoughts/**
