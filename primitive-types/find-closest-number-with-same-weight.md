@@ -16,21 +16,15 @@ Find the closest number with the same number of 1 bit
 
 **Thoughts/**
 
-
-
 **Code/**
 
 ```
-public long reverseBits(long num) {
-    
+public long closestNumber(long num) {
+
 }
 ```
 
 -------------------------------- Author ------------------------------
 
 **Thoughts/**
-
-
-
-
 
