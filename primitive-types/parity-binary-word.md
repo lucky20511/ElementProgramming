@@ -18,6 +18,46 @@ Do the following things in O\(1\)
 
 **Code/**
 
+```
+public short parity(long num) {
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+}
+
+
+/****  Variant ****/
+
+public int addRightmostBits(int num) {
+
+
+
+}
+
+public int mod(int num, int p) {
+
+
+
+}
+
+public boolean isPowerTwo(int num) {
+
+
+
+}
+
+```
+
 -------------------------------- Luckman -------------------------
 
 **Thoughts/**
