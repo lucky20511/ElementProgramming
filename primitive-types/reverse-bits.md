@@ -1,4 +1,4 @@
-### Revese Bits
+### Reverse Bits
 
 **Description/**
 

@@ -12,6 +12,7 @@
 * [Parity Binary Word](primitive-types/parity-binary-word.md)
 * [Swap Bits](primitive-types/swap-bits.md)
 * [Reverse Bits](primitive-types/reverse-bits.md)
+* [Find Closest Number with Same Weight](primitive-types/find-closest-number-with-same-weight.md)
 
 ## Arrays
 
