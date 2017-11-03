@@ -23,7 +23,7 @@ Compare the ith and jth bit. If they are the same, don't need to swap. If they a
 ```
 public long swapBits(long num, int i, int j) {
     if(((num >> i) & 1) != ((num >> j) & 1)) {
-        num ^= (1 << j) | (1 << i);
+        num ^= (1L << j) | (1L << i);
     }
     return num;
 }

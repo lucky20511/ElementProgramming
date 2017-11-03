@@ -2,7 +2,7 @@
 
 **Description/**
 
-Reverse all bits in a number 
+Reverse all bits in a number
 
 **Variant/**
 
@@ -16,16 +16,17 @@ Reverse all bits in a number
 
 **Thoughts/**
 
-Compare the ith and jth bit. If they are the same, don't need to swap. If they are not the same, XOR 1 for this two bits.
+Construct the reversed number bit by bit.
 
 **Code/**
 
 ```
-public long parity(long num) {
-    if(((num >> i) & 1) != ((num >> j) & 1)) {
-        num ^= (1 << j) | (1 << i);
+public long reverseBits(long num) {
+    long ret = 0;
+    for(int i = 0; i < 64; i++) {
+        ret = ret << 1 + ((num >> i) & 1);
     }
-    return num;
+    return ret;
 }
 ```
 
