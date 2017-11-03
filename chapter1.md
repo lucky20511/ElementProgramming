@@ -29,6 +29,9 @@
 
 **1.Clarify the problem**
 
+* Stating a concrete instance of the problem is a good way to clarify \(Make an example\)
+* Feel free to ask interviewers what time and space complexity they expect
+
 **2.Work on concrete examples**
 
 **3.Spell out brute-force solution**
