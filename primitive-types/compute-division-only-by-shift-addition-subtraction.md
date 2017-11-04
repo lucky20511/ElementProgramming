@@ -22,7 +22,7 @@ public long division(long x, long y) {
 
 **Thoughts/**
 
-
+x = y \* \(1011\) = y \* \(2^3 + 2^1 + 2^0\)
 
 **Code/**
 
@@ -44,13 +44,9 @@ public long division(long x, long y) {
     }
     return ret;
 }
-
-
 ```
 
 -------------------------------- Author ------------------------------
 
 **Thoughts/**
-
-
 
