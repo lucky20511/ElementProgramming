@@ -4,9 +4,19 @@
 
 Judge if the integer is palindrome
 
-**Variant/**
+e.g.
 
-What if return value is int?
+0 --&gt; true
+
+-1 --&gt; false
+
+7 --&gt; true
+
+11 --&gt; true
+
+17 --&gt; false
+
+**Variant/**
 
 -------------------------------- Leonard --------------------------
 
@@ -15,7 +25,8 @@ What if return value is int?
 **Code/**
 
 ```
-public long reverseDigits(int num) {
+public boolean isPalindrome(int num) {
+
 
 
 
@@ -50,7 +61,7 @@ Need to care about the conditions when number of digit is odd and number of digi
 
 ```
 public boolean isPalindrome(int num) {
-    // if num == -inf
+    // if num is negative
     if(num < 0) {
         return false;
     }
@@ -71,4 +82,6 @@ public boolean isPalindrome(int num) {
 -------------------------------- Author ------------------------------
 
 **Thoughts/**
+
+Calculate the number of digits by Math.log10\(\) and then compare just like String by using two pointer head and tail.
 
