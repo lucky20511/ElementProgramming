@@ -21,11 +21,32 @@ public long reverseDigits(int num) {
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 }
+
+
 
 /****  Variant ****/
 
 
+public int reverseDigits(int num) {
+
+
+
+}
 ```
 
 -------------------------------- Luckman -------------------------
@@ -47,6 +68,8 @@ public long reverseDigits(int num) {
     return (num < 0) ? -ret : ret;
 }
 
+
+
 /****  Variant ****/
 
 public int reverseDigits(int num) {
@@ -57,8 +80,8 @@ public int reverseDigits(int num) {
     int left = (num < 0) ? -num : num;
     int ret = 0;
     while(left != 0) {
-        // overflow
         int next = ret * 10 + (left % 10);
+        // overflow
         if((next / 10) != ret) {
             return num;
         }
@@ -67,12 +90,11 @@ public int reverseDigits(int num) {
     }
     return (num < 0) ? -ret : ret;
 }
-
-
-
 ```
 
 -------------------------------- Author ------------------------------
 
 **Thoughts/**
+
+Reverse it digit by digit
 
