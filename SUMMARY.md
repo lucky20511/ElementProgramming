@@ -15,6 +15,8 @@
 * [Find Closest Number with Same Weight](primitive-types/find-closest-number-with-same-weight.md)
 * [Compute Multiply without arithmetic operators](primitive-types/compute-multiply-without-arithmetic-operators.md)
 
+## Compute Division by shift addition subtraction
+
 ## Arrays
 
 ## Strings
