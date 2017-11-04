@@ -14,8 +14,7 @@
 * [Reverse Bits](primitive-types/reverse-bits.md)
 * [Find Closest Number with Same Weight](primitive-types/find-closest-number-with-same-weight.md)
 * [Compute Multiply without arithmetic operators](primitive-types/compute-multiply-without-arithmetic-operators.md)
-
-## Compute Division by shift addition subtraction
+* [Compute Division only by shift addition subtraction](primitive-types/compute-division-only-by-shift-addition-subtraction.md)
 
 ## Arrays
 
