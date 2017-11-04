@@ -36,7 +36,6 @@ public long reverseDigits(int num) {
 
 
 }
-
 ```
 
 -------------------------------- Luckman -------------------------
@@ -52,7 +51,7 @@ Need to care about the conditions when number of digit is odd and number of digi
 ```
 public boolean isPalindrome(int num) {
     // if num == -inf
-    if(num == Integer.MIN_VALUE) {
+    if(num < 0) {
         return false;
     }
     int ret = 0;
@@ -67,12 +66,9 @@ public boolean isPalindrome(int num) {
     // even number of digits
     return ret == num;    
 }
-
 ```
 
 -------------------------------- Author ------------------------------
 
 **Thoughts/**
-
-
 
