@@ -64,5 +64,5 @@ public double power(double x, int y) {
 
 **Thoughts/**
 
-Not clearly understand
+X^13 = \(x\*x\)^6 \* x
 
