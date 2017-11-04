@@ -19,6 +19,7 @@
 * [Reverse Digits](primitive-types/reverse-digits.md)
 * [Palindrome Integer](primitive-types/palindrome-integer.md)
 * [Generate Uniform Random Number](primitive-types/generate-uniform-random-number.md)
+* [Rectangle Intersection](primitive-types/rectangle-intersection.md)
 
 ## Arrays
 
