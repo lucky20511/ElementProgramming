@@ -24,6 +24,19 @@ public void evenOddChange(List<Integer> A) {
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
 }
 ```
 
@@ -60,4 +73,6 @@ public void evenOddChange(List<Integer> A) {
 -------------------------------- Author ------------------------------
 
 **Thoughts/**
+
+Two pointers
 
