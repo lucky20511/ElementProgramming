@@ -13,7 +13,7 @@ Compute the x^y, where x is double y is int
 **Code/**
 
 ```
-public long power(double x, int y) {
+public double power(double x, int y) {
 
 
 
@@ -46,7 +46,7 @@ X^13 = \(x\*x\)^6 \* x
 **Code/**
 
 ```
-public long power(double x, int y) {
+public double power(double x, int y) {
     if(y == 0) {
         return 1;
     }
