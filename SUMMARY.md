@@ -16,6 +16,7 @@
 * [Compute Multiply without arithmetic operators](primitive-types/compute-multiply-without-arithmetic-operators.md)
 * [Compute Division only by shift addition subtraction](primitive-types/compute-division-only-by-shift-addition-subtraction.md)
 * [Compute Power of Number](primitive-types/compute-power-of-number.md)
+* [Reverse Digits](primitive-types/reverse-digits.md)
 
 ## Arrays
 
