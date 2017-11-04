@@ -23,6 +23,8 @@
 
 ## Arrays
 
+* [Even Odd Change](arrays/even-odd-change.md)
+
 ## Strings
 
 ## Linked Lists
