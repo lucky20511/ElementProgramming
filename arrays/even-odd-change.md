@@ -31,14 +31,16 @@ public void evenOddChange(List<Integer> A) {
 
 **Thoughts/**
 
-1. Two pointer: head and tail.      head -&gt; first unclassified number from head     tail -&gt; first unclassified number from tail
-2. for each iteration
+```
+1.Two pointer: head and tail.      
+      head -> first unclassified number from head     
+      tail -> first unclassified number from tail
 
-        condition A : num\[head\] is even  --&gt; head++ 
-
-        condition B : num\[head\] is odd   --&gt;   swap head and tail,    tail-- 
-
-        condition C : head == tail --&gt; break
+2.For each iteration
+      condition A : num[head] is even --> head++
+      condition B : num[head] is odd --> swap head and tail, tail--
+      condition C : head == tail --> break
+```
 
 **Code/**
 
@@ -53,14 +55,9 @@ public void evenOddChange(List<Integer> A) {
       }
    }
 }
-
 ```
 
 -------------------------------- Author ------------------------------
 
 **Thoughts/**
-
-
-
-
 
