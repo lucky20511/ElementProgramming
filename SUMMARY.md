@@ -2,6 +2,10 @@
 
 * [Introduction](README.md)
 
+## Useful Libraries
+
+* [Collections](useful-libraries/collections.md)
+
 ## Introduction
 
 * [Strategies for Interview](chapter1.md)
