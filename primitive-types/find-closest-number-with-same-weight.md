@@ -16,32 +16,32 @@ Solve it in O\(1\)
 
 ```
 public long closestNumber(long num) {
-   
-   
-   
-   
-   
-   
-   
-   
-   
-   
-   
-   
-   
-   
-   
-   
-   
-   
-   
-   
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 }
 
 /****  Variant ****/
 
 public long closestNumber(long num) {
-   
+
 }
 ```
 
@@ -79,4 +79,6 @@ public long closestNumber(long num) {
 -------------------------------- Author ------------------------------
 
 **Thoughts/**
+
+Find the first bit which is different from next bit searching from the LSB
 
