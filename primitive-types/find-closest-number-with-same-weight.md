@@ -14,11 +14,42 @@ Solve it in O\(1\)
 
 **Code/**
 
+```
+public long closestNumber(long num) {
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+}
+
+/****  Variant ****/
+
+public long closestNumber(long num) {
+   
+}
+```
+
 -------------------------------- Luckman -------------------------
 
 **Thoughts/**
 
-Find the first bit which is different from next bit searching from the LSB 
+Find the first bit which is different from next bit searching from the LSB
 
 **Code/**
 
