@@ -10,7 +10,7 @@ e.g.
 
 **Variant/**
 
-Keep the same order of all even numbers
+Keep the original order of even numbers
 
 -------------------------------- Leonard --------------------------
 
@@ -48,7 +48,7 @@ public void evenOddChange(List<Integer> A) {
 
 ```
 1.Two pointer: i and j.      
-      i -> first unclassified number or first odd from head     
+      i -> first unclassified number from the head
       j -> pointer to check each value
 
 
