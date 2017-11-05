@@ -44,14 +44,16 @@ public void threeWayPartition(List<Integer> A) {
 
 ```
 1.Using three pointers:
-   h -> first
+   i -> first unclassified or first < number from the head
+   j -> pointer to check each number 
+   k -> first unclassified or first > number from the tail
+   
+
 ```
 
 **Code/**
 
 ```
-
-
 public void threeWayPartition(List<Integer> A, int index) {
 
 }
