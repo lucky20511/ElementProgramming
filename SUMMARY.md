@@ -29,6 +29,7 @@
 
 * [Even Odd Change \(2 way P\)](arrays/even-odd-change.md)
 * [Dutch National Flag \(3 way P\)](arrays/dutch-national-flag.md)
+* [Increment Integer](arrays/increment-integer.md)
 
 ## Strings
 

@@ -6,13 +6,19 @@ Do the three way partition by given index i --&gt; A\[i\]
 
 &lt; A\[i\]    = A\[i  \]  &gt;A\[i\]
 
+**Variant/**
 
+1.
+
+2.
+
+3.
+
+4.
 
 \[NOTE\]
 
 **QuickSelect** or **QuickSort** can be implemented by both **2 way partition** or **3 way partition**
-
-**Variant/**
 
 -------------------------------- Leonard --------------------------
 
