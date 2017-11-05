@@ -6,6 +6,12 @@ Do the three way partition by given index i --&gt; A\[i\]
 
 &lt; A\[i\]    = A\[i  \]  &gt;A\[i\]
 
+
+
+\[NOTE\]
+
+**QuickSelect** or **QuickSort** can be implemented by both **2 way partition** or **3 way partition**
+
 **Variant/**
 
 -------------------------------- Leonard --------------------------
@@ -54,8 +60,6 @@ public void threeWayPartition(List<Integer> A) {
    condition B:  nums[j] > pivot  --> swap j, k  and  k--   
    condition C:  nums[j] == pivot --> j++
    condition D:  j > k  --> break
-
-  
 ```
 
 **Code/**
@@ -81,6 +85,22 @@ public void threeWayPartition(List<Integer> A, int index) {
 -------------------------------- Author ------------------------------
 
 **Thoughts/**
+
+Author proposed many methods. But the best one for me is using the three pointers.
+
+```
+1.Using three pointers:
+   i -> first unclassified from the head
+   j -> pointer to check each number 
+   k -> first unclassified from the tail
+
+
+2.for each iteration
+   condition A:  nums[j] < pivot  --> swap i, j  and  i++, j++
+   condition B:  nums[j] > pivot  --> swap j, k  and  k--   
+   condition C:  nums[j] == pivot --> j++
+   condition D:  j > k  --> break
+```
 
 
 
