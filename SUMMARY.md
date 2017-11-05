@@ -4,7 +4,7 @@
 
 ## Useful Libraries
 
-* [Collections](useful-libraries/collections.md)
+* [Collections and Arrays](useful-libraries/collections.md)
 
 ## Introduction
 
@@ -27,7 +27,8 @@
 
 ## Arrays
 
-* [Even Odd Change](arrays/even-odd-change.md)
+* [Even Odd Change \(2 way P\)](arrays/even-odd-change.md)
+* [Dutch National Flag \(3 way P\)](arrays/dutch-national-flag.md)
 
 ## Strings
 
