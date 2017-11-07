@@ -6,8 +6,6 @@ Multiply
 
 **Variant/**
 
-
-
 -------------------------------- Leonard --------------------------
 
 **Thoughts/**
@@ -42,7 +40,7 @@ public List<Integer> Multiply(List<Integer> A, List<Integer> B) {
 ```
 public List<Integer> Multiply(List<Integer> A, List<Integer> B) {
     // check if A and B are empty
-    
+
     int lenA = A.size(), lenB = B.size();
     int sign = 1;
     if(A.get(0) * B.get(0) < 0) {
@@ -54,7 +52,7 @@ public List<Integer> Multiply(List<Integer> A, List<Integer> B) {
     int[] ret = new int[len];
     for(int i = 0; i < lenA; i++) {
          for(int j = 0; j < lenB; j++) {
-              ret[len - i - j] += A.get(i) * A.get(j);
+              ret[len - 1 - i - j] += A.get(i) * A.get(j);
          }
     }
     for(int i = len - 1; i >= 1; i--) {
@@ -65,7 +63,7 @@ public List<Integer> Multiply(List<Integer> A, List<Integer> B) {
     while(ret[start] == 0) {
          start++;
     } 
-    
+
     List<Integer> list = new ArrayList<>();
     for(int i = start; i < len; i++) {
          if(i == start) {
@@ -76,14 +74,9 @@ public List<Integer> Multiply(List<Integer> A, List<Integer> B) {
     }                       
     return list;                        
 }
-
 ```
 
 -------------------------------- Author ------------------------------
 
 **Thoughts/**
-
-
-
-
 
