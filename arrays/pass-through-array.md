@@ -15,18 +15,24 @@ Find the minimum steps to pass through the array
 **Code/**
 
 ```
-public List<Integer> Multiply(List<Integer> A, List<Integer> B) {
+public boolean passArray(List<Integer> steps) {
+
+    
+        
+            
+                
+                    
+                        
+                            
+                                    
+}
 
 
 
+/**** Variant ****/
 
-
-
-
-
-
-
-
+public int minSteps(List<Integer> steps) {
+   
 }
 ```
 
@@ -77,7 +83,6 @@ public int minSteps(List<Integer> steps) {
     }
     return dp[0];
 }
-
 ```
 
 -------------------------------- Author ------------------------------
