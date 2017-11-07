@@ -16,12 +16,12 @@ Increment an Integer represented as a array or list
 
 ```
 public List<Integer> incrementInteger(List<Integer> A) {
-    
-    
-    
-  
-    
-        
+
+
+
+
+
+
 }
 
 
@@ -46,9 +46,10 @@ public String sumOfString(String A, String B) {
 
    Variant/
 
-1. Using StringBuilder append and then reverse at the end
-2. while idxA &gt;= 0 \|\| idxB &gt;= 0 keep doing
-3. check the carry at the end
+3. Using StringBuilder append and then reverse at the end
+
+4. while idxA &gt;= 0 \|\| idxB &gt;= 0 keep doing
+5. check the carry at the end
 
 **Code/**
 
@@ -56,7 +57,7 @@ public String sumOfString(String A, String B) {
 public List<Integer> incrementInteger(List<Integer> A) {
     int i = A.size() - 1;
     int carry = 1;
-    
+
     while(i >= 0 && carry != 0) {
         int cur = carry + A.get(i);
         carry = cur / 10;
@@ -90,8 +91,6 @@ public String sumOfString(String A, String B) {
     }
     return sb.reverse().toString();
 }
-
-
 ```
 
 -------------------------------- Author ------------------------------
