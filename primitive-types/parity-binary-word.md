@@ -16,46 +16,36 @@ Do the following things in O\(1\)
 
 **Thoughts/**
 
+Not count bit by bit; Only consider bits whose values are 1
+
 **Code/**
 
 ```
 public short parity(long num) {
-   
-   
-   
-   
-   
-   
-   
-   
-   
-   
-   
-   
-   
+    short res = 0;
+    while (num != 0) {
+        num &= num - 1;
+        res ^= 1;
+    }
+    return res;
 }
 
 
 /****  Variant ****/
 
 public int addRightmostBits(int num) {
-
-
-
+    return num | (num - 1);
 }
 
 public int mod(int num, int p) {
-
-
-
+    // p is a power of two
+    return num & (p - 1);    
 }
 
 public boolean isPowerTwo(int num) {
-
-
-
+    return (num & (num - 1)) == 0;
+    // how about num < 0
 }
-
 ```
 
 -------------------------------- Luckman -------------------------
