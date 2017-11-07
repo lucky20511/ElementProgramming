@@ -37,14 +37,16 @@ public int addRightmostBits(int num) {
     return num | (num - 1);
 }
 
+// p is the power of two
+// ex. the power of two for 64 is 6
 public int mod(int num, int p) {
     // p is a power of two
-    return num & (p - 1);    
+    return num & (1 << p - 1);    
 }
 
 public boolean isPowerTwo(int num) {
     return (num & (num - 1)) == 0;
-    // how about num < 0
+    // num cannot be a negative num because it's a power of 2
 }
 ```
 
