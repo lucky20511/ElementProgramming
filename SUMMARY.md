@@ -32,6 +32,7 @@
 * [Increment Integer](arrays/increment-integer.md)
 * [Multiply Big Integer](arrays/multiply-big-integer.md)
 * [Pass through Array](arrays/pass-through-array.md)
+* [Remove Duplicate in Array](arrays/remove-duplicate-in-array.md)
 
 ## Strings
 
