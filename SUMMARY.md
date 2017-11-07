@@ -31,6 +31,7 @@
 * [Dutch National Flag \(3 way P\)](arrays/dutch-national-flag.md)
 * [Increment Integer](arrays/increment-integer.md)
 * [Multiply Big Integer](arrays/multiply-big-integer.md)
+* [Pass through Array](arrays/pass-through-array.md)
 
 ## Strings
 
