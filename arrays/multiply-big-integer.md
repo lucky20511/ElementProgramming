@@ -2,7 +2,7 @@
 
 **Description/**
 
-Multiply
+Multiply two big integer represented as List
 
 **Variant/**
 
@@ -45,7 +45,7 @@ public List<Integer> Multiply(List<Integer> A, List<Integer> B) {
     if(lenA == 0 || lenB == 0) {
          return new ArrayList<Integer>();
     }
-    
+
     int sign = 1;
     if(A.get(0) * B.get(0) < 0) {
          sign = -1;
@@ -56,7 +56,7 @@ public List<Integer> Multiply(List<Integer> A, List<Integer> B) {
     if(B.get(0) < 0) {
          B.set(0, -B.get(0));
     }
-    
+
     int len = lenA + lenB;
     int[] ret = new int[len];
     for(int i = 0; i < lenA; i++) {
